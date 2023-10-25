@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">testapp</string>
+    <string name="choice_country">Выбери страну</string>
+    <string name="search_hint">Выбери страну</string>
+    <string name="convert_from_text">Перевести из</string>
+    <string name="convert_to_text">Перевести в</string>
+    <string name="amount_to_convert">Сколько перевести</string>
+    <string name="conversion_rate">Вы получите</string>
+    <string name="conversion_button">Перевести</string>
+</resources>
