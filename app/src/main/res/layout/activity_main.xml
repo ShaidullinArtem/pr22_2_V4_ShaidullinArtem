@@ -54,14 +54,6 @@
                         android:text="@string/convert_from_text"
                         android:textColor="@color/black"/>
 
-                    <TextView
-                        android:id="@+id/convertToTitle"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginStart="10dp"
-                        android:layout_weight="1.0"
-                        android:text="@string/convert_to_text"
-                        android:textColor="@color/black"/>
 
                 </LinearLayout>
 
@@ -75,18 +67,6 @@
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="10dp"
-                        android:layout_weight="1.0"
-                        android:hint="@string/choice_country"
-                        android:text=""
-                        android:textColor="@color/black"
-                        android:textSize="10sp"
-                        app:drawableEndCompat="@drawable/baseline_arrow_drop_down_24"
-                        app:drawableRightCompat="@drawable/baseline_arrow_drop_down_24" />
-
-                    <TextView
-                        android:id="@+id/convert_to_dropdown_menu"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
                         android:layout_weight="1.0"
                         android:hint="@string/choice_country"
                         android:text=""
